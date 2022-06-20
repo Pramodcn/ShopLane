@@ -141,7 +141,7 @@ html{
       margin-right: 16px;
   }
   #logo:hover{
-    transform: scale(1.2,1.2);
+    transform: scale(0.8,0.8);
     text-shadow: 0 0 3px yellowgreen;
   }
   #logo > a {
